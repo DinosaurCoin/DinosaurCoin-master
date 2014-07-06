@@ -1,0 +1,4 @@
+Building DinosaurCoin
+See doc/readme-qt.rst for instructions on building DinosaurCoin QT.
+
+See doc/build-*.txt for instructions on building DinosaurCoind.
